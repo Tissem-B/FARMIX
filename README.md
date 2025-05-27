@@ -1,2 +1,2 @@
-# FARMIX
+# shop
 smart farm shop
